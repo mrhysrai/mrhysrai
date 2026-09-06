@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **how to code!**
 
-- 👯 I’m looking to collaborate on **a passion project**
-
-- 🤝 I’m looking for help with **the film in question**
-
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1JD_XBG8ND9GWUm0cj5zs8sl6XHL_dGCX?usp=drive_link](https://drive.google.com/drive/folders/1JD_XBG8ND9GWUm0cj5zs8sl6XHL_dGCX?usp=drive_link)
+
+- You can find my LinkedIn here!: https://www.linkedin.com/in/mandee-raimondo-076202356/ 
 
 - 💬 Ask me about **my interests, filmmaking, or music!**
 
