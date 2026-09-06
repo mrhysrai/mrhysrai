@@ -9,15 +9,14 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1JD_XBG8ND9GWUm0cj5zs8sl6XHL_dGCX?usp=drive_link](https://drive.google.com/drive/folders/1JD_XBG8ND9GWUm0cj5zs8sl6XHL_dGCX?usp=drive_link)
 
-- You can find my LinkedIn here!: https://www.linkedin.com/in/mandee-raimondo-076202356/ 
-
-- 💬 Ask me about **my interests, filmmaking, or music!**
-
-- 📫 How to reach me **mrhysraimondo@gmail.com**
+- 💬 Ask me about music! My favorite artists are Twenty One Pilots, Dayglow, and Bad Suns!
 
 - ⚡ Fun fact **I am a published poet!**
 
 <h3 align="left">Connect with me:</h3>
+LinkedIn: https://www.linkedin.com/in/mandee-raimondo-076202356/
+Media Instagram!: @media.by.moo
+
 <p align="left">
 </p>
 
