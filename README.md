@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Milo</h1>
+<h1 align="center">Hi! I'm Milo</h1>
 <h3 align="center"> Media Arts and Design, Digital Video and Cinema | Creative Writing </h3>
+<h5 align="center"> I am a fourth year Media Arts and Design student with a concentration in Digital Video and Cinema and a minor in Creative Writing. I am passionate about creating digital media, with experience in photography, video editing, and short-form filmmaking. </h5>
 
 - 🔭 I’m currently working on **a short film!**
 
