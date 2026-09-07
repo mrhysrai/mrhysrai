@@ -4,15 +4,17 @@
 <h3 align="center"> Media Arts and Design, Digital Video and Cinema | Creative Writing </h3>
 <h5 align="center"> I am a fourth year Media Arts and Design student with a concentration in Digital Video and Cinema and a minor in Creative Writing. I am passionate about creating digital media, with experience in photography, video editing, and short-form filmmaking. </h5>
 
+<h3 align="center"> About Me
+
+- My goal is to work within the music industry as a photographer and videographer. Whether it be photographing concerts, shooting music videos, or assisting with promotional content, I hope to be a eventually make a name within the industry.
+
 - I’m currently working as the **Co-Director of Photography for a short film!**
 
 - I’m passionate about **musical media; music videos, concert photography, and music industry marketing!**
 
-- 👨‍💻 All of my projects are available [here!](https://drive.google.com/drive/folders/1JD_XBG8ND9GWUm0cj5zs8sl6XHL_dGCX?usp=drive_link)
+- All of my projects are available [here!](https://drive.google.com/drive/folders/1JD_XBG8ND9GWUm0cj5zs8sl6XHL_dGCX?usp=drive_link)
 
-- 💬 Ask me about music! My favorite artists are Twenty One Pilots, Dayglow, and Bad Suns!
-
-- ⚡ Fun fact **I am a published poet!**
+- Ask me about music! My favorite artists are Twenty One Pilots, Dayglow, and Bad Suns!
 
 <h3 align="left">Connect with me:</h3>
 LinkedIn: https://www.linkedin.com/in/mandee-raimondo-076202356/
