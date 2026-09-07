@@ -4,7 +4,7 @@
 <h3 align="center"> Media Arts and Design, Digital Video and Cinema | Creative Writing </h3>
 <h5 align="center"> I am a fourth year Media Arts and Design student with a concentration in Digital Video and Cinema and a minor in Creative Writing. I am passionate about creating digital media, with experience in photography, video editing, and short-form filmmaking. </h5>
 
-<h3 align="center"> About Me
+<h3 align="center"> About Me </h3>
 
 - My goal is to work within the music industry as a photographer and videographer. Whether it be photographing concerts, shooting music videos, or assisting with promotional content, I hope to be a eventually make a name within the industry.
 
