@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Milo</h1>
-<h3 align="center">A creative media artist from Maryland</h3>
+<h3 align="center"> Media Arts and Design, Digital Video and Cinema | Creative Writing </h3>
 
 - 🔭 I’m currently working on **a short film!**
 
